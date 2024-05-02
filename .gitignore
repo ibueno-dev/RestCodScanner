@@ -36,7 +36,8 @@ generated/*
 # Arquivos de configuração específicos do IDE
 **/.idea/
 **/.vscode/
-**/.settings
+**/.settings/
+**/.mvn/wrapper/
 
 # Arquivos de configuração do sistema operacional
 **/.DS_Store
@@ -44,4 +45,4 @@ generated/*
 
 # Arquivos temporários do Maven
 **/target/m2e-project-plugin/m2e-maven-plugin-data.classpath
-**/.mvn/wrapper
+
