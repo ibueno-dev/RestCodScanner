@@ -1,0 +1,45 @@
+# Arquivos do Workspace do STS
+workspace/.metadata
+workspace/.settings
+workspace/*.log
+workspace/target/
+
+# Pastas do Eclipse
+.project
+.classpath
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.m2e.maven.prefs
+
+# Arquivos temporários
+*.tmp
+*.iml
+*.bak
+*.svn
+
+# Arquivos de log e workspace
+*.log
+*.err
+*.stacktrace
+*.wsdump
+*.dat
+
+# Arquivos gerados
+generated/*
+
+# Pastas de cache
+**/target/
+**/bin/
+**/out/
+
+# Arquivos de configuração específicos do IDE
+**/.idea/
+**/.vscode/
+
+# Arquivos de configuração do sistema operacional
+**/.DS_Store
+**/Thumbs.db
+
+# Arquivos temporários do Maven
+**/target/m2e-project-plugin/m2e-maven-plugin-data.classpath
